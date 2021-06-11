@@ -11,7 +11,7 @@
 
 ##APIs
 
-*   GET   ```/sample``
+*   GET   ```/sample```
 *   GET   ```/get-item/{item-id}```
 *   GET   ```/get-by-name/```
 *   POST  ```/create_item/{item_id}```
