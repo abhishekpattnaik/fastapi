@@ -1,6 +1,6 @@
-#FASTAPI BASICS
+# FASTAPI BASICS
 
-##Steps
+## Steps
 
 1) Setup virtualenv
     ```python3 -m venv <virtual_env_name>```
@@ -9,7 +9,7 @@
 3) Run the server
     ```uvicorn working:app --reload --port 8001```
 
-##APIs
+## APIs
 
 *   GET   ```/sample```
 *   GET   ```/get-item/{item-id}```
